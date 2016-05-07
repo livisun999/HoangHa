@@ -38,8 +38,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">??ch 5</div>
-                <p>C25 Ho�ng H�</p>
+                <div class="title">đệch 5</div>
+                <p>C25 Hoàng Hà</p>
             </div>
         </div>
     </body>

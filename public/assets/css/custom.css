@@ -1,0 +1,30 @@
+a {
+    text-decoration: none;
+}
+ul li {
+    list-style: none;
+}
+.header {
+    width: auto;
+    height: 155px;
+    float:left;
+}
+.sider_bar {
+    width: auto;
+    height: 455px;
+    float:left;
+}
+.infor {
+    width:300px ;
+    height: 455px;
+    float:left;
+}
+.main {
+    width: auto;
+    height: 2100px;
+    float:left;
+}
+.footer {
+    width: auto;
+    height: 450px;
+}
